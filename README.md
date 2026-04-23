@@ -21,7 +21,6 @@ This system uses **Machine Learning algorithms** to classify water quality based
 ### Frontend
 - HTML
 - CSS
-- JavaScript
 
 ### Backend
 - Python
